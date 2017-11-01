@@ -134,7 +134,7 @@ body > .container {
 
 .jumbotron{
   color: #fff;
- background:url(../images/Photoelly037.jpg);
+ background: image-url(Photoelly037.jpg);
   background-size: cover;
   height: 420px;
 }
